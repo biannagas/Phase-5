@@ -95,7 +95,7 @@ TFWav2Vec Confusion Matrix
 
 * Use other Hugging Face pretrained models like the Audio Spectrogram Transformer model in image classification.
 
-* Use video clips to detect emotion
+* Use video clips to detect emotion.
 
 * Use a different datasets or combination of emotion recognition datasets like the Ryerson Audio-Visual Database of Emotional Speech and Song (RAVDESS), Toronto emotional speech set (Tess), or Surrey Audio-Visual Expressed Emotion (Savee).
 
